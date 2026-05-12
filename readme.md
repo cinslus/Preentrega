@@ -13,7 +13,7 @@ Este repositorio contiene un Framework de Automatización de Pruebas E2E (End-to
 
 ## Instalacion
 
-`git clone https:.....`
+`git clone https:https://github.com/cinslus/Preentrega`
 
 ## Instalacion de dependencias
 
