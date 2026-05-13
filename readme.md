@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-Este repositorio contiene un Framework de Automatización de Pruebas E2E (End-to-End) diseñado para validar la funcionalidad de una aplicación web (https://www.saucedemo.com/). El proyecto utiliza el patrón de diseño Page Object Model (POM) para garantizar que los tests sean escalables, legibles y fáciles de mantener.
+Este repositorio contiene un Framework de Automatización de Pruebas E2E (End-to-End) diseñado para validar la funcionalidad de una aplicación web (https://www.saucedemo.com/).
 
 ## Tecnologias usadas
 - Lenguaje : Python
